@@ -23,7 +23,7 @@
 
 1. (Code Management) Refactor code for CommonConversationDialogue base to allow re-using of shared *whole sentence parsing logic* - this is useful in two occasions: 1) SimpleMultiPart PatternHandler; 2) Automatic parsing for "article-like" writings e.g. diaries and emails (not implemented yet but will be added later).
 2. (Gameplay) Augment Bar Tender behavior: add speeches, add basic movement.
-3. (User Interface) Three improvements: 1) Chat bubble chat display and rendering fix; 2) Bottome chat log scroll line update; 3) Floating chat bubble locator update (*still buggy*).
+3. (User Interface) Three improvements: 1) Chat bubble chat display and rendering fix; 2) Test update bottome-panel chat log scroll lines and add details regarding who is speaking to whom; 3) Update floating chat bubble locator to follow the last person speaking to us (*still buggy*).
 
 ![Chat Bubble Display](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/a685e003addb940f7f93b1c68a4c67e5025dc194/Screenshots/20210722_01.jpg)
 
