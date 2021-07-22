@@ -14,3 +14,7 @@
 
 1. (Gameplay) Add RoleSimulation Actor Component; (Semantics) Add details to Bar Tender behavior, allow "ice-breaking" talk;
 2. (Code Architecture) Split PatternHandler into PatternHandler and PatternReactor for responsibility division between internal and external state updates;
+
+# 20210721
+
+1. (Semantics) Add basic semantics for "Are you from the neighbourhood?".
