@@ -41,6 +41,6 @@
 
 # 20210724
 
-1. Add Emoji display for NPCs.
+1. (Feature, Semantics, NPC) Add Emoji display for NPCs.
 
 ![NPC Emoji](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/main/Screenshots/20210724_01.png)
