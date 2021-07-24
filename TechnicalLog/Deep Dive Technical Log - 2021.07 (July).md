@@ -30,3 +30,11 @@
 ![Chat Log Rolling Panel](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/a685e003addb940f7f93b1c68a4c67e5025dc194/Screenshots/20210722_02.png)
 
 ![Chat Locator](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/a685e003addb940f7f93b1c68a4c67e5025dc194/Screenshots/20210722_03.png)
+
+# 20210721
+
+1. (System) Test and fix bug with Pattern Builder;
+2. (Semantics) Minor update/addition to greetings parsing.
+3. (GUI) Work on basic *Full Info menu* for **Visitor Mode** (and in this case for Doris Place minigame) - add speech log display.
+
+![Speech Log](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/main/Screenshots/20210723_01.png)
