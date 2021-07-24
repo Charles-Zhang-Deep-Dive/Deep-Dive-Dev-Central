@@ -19,7 +19,7 @@
 
 1. (Semantics) Add basic semantics for "Are you from the neighbourhood?".
 
-# 20210721
+# 20210722
 
 1. (Code Management) Refactor code for CommonConversationDialogue base to allow re-using of shared *whole sentence parsing logic* - this is useful in two occasions: 1) SimpleMultiPart PatternHandler; 2) Automatic parsing for "article-like" writings e.g. diaries and emails (not implemented yet but will be added later).
 2. (Gameplay) Augment Bar Tender behavior: add speeches, add basic movement.
@@ -31,10 +31,14 @@
 
 ![Chat Locator](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/a685e003addb940f7f93b1c68a4c67e5025dc194/Screenshots/20210722_03.png)
 
-# 20210721
+# 20210723
 
 1. (System) Test and fix bug with Pattern Builder;
 2. (Semantics) Minor update/addition to greetings parsing.
 3. (GUI) Work on basic *Full Info menu* for **Visitor Mode** (and in this case for Doris Place minigame) - add speech log display.
 
 ![Speech Log](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/main/Screenshots/20210723_01.png)
+
+# 20210724
+
+1. Add Emoji display for NPCs.
