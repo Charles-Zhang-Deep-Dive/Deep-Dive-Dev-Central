@@ -41,6 +41,6 @@
 
 # 20210724
 
-1. (Feature, Semantics, NPC) Add Emoji display for NPCs.
+1. (Feature, Semantics, NPC) Add Emoji display for NPCs. (Notice players can't input emojis yet - but *this might be a desired user interface feature*: allow players to input from selection certain emojis as a means of expressing emotions; This feature is not urgent so will be implemented much later)
 
 ![NPC Emoji](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/main/Screenshots/20210724_01.png)
