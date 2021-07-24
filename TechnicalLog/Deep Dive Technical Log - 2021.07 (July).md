@@ -8,7 +8,7 @@
 
 ![What's Your Name](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/4163bec9249938c03840fdad7061ce5f4a9644c4/images/Screenshot2021071902.png)
 
-![Name Input](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/4163bec9249938c03840fdad7061ce5f4a9644c4/images/Screenshot2021071903.png)
+![Name Input](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/main/Screenshots/20210719_03.png)
 
 # 20210720
 
