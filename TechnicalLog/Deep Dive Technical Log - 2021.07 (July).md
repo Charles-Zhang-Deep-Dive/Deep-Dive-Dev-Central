@@ -66,4 +66,4 @@
 
 Demo: 
 
-[![YouTube Demo]([Documentation/YouTube%20Video%20Link%20Image.png](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/main/Screenshots/20210726_02.jpg))](https://youtu.be/Rd8E-iSiLZ0)
+[![YouTube Link](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/main/Screenshots/20210726_02.jpg)](https://youtu.be/Rd8E-iSiLZ0)
