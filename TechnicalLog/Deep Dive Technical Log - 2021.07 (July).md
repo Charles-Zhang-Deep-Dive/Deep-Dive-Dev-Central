@@ -35,12 +35,23 @@
 
 1. (System) Test and fix bug with Pattern Builder;
 2. (Semantics) Minor update/addition to greetings parsing.
-3. (GUI) Work on basic *Full Info menu* for **Visitor Mode** (and in this case for Doris Place minigame) - add speech log display.
+3. (GUI) Work on basic *Full Info menu* for **Visitor Mode** (and in this case for Doris Place minigame) - add speech log display; See screenshot below.
 
 ![Speech Log](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/main/Screenshots/20210723_01.png)
 
 # 20210724
 
-1. (Feature, Semantics, NPC) Add Emoji display for NPCs. (Notice players can't input emojis yet - but *this might be a desired user interface feature*: allow players to input from selection certain emojis as a means of expressing emotions; This feature is not urgent so will be implemented much later)
+1. (Feature, Semantics, NPC) Add Emoji display for NPCs. (Notice players can't input emojis yet - but *this might be a desired user interface feature*: allow players to input from selection certain emojis as a means of expressing emotions; This feature is not urgent so will be implemented much later); See screenshot below.
 
 ![NPC Emoji](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/main/Screenshots/20210724_01.png)
+
+# 20210725
+
+1. (User Interface) Fix issues with sentence builder. `Pending augmentation of sentence builder with new hierarchical syntax patterns`.
+2. (Semantics) Augment and complete semantics on "AskForName".
+3. (Semantics) Work on the topic of "Likings"; See first screenshot below - this demo is one example of potential replies.
+4. (Minigame, Level) Setup level (or rather - remake Doris Place into) "**Sweet Pisa**" for a more natural, less made-up gameplay (like original conception of Doris Place as bar for picking up girls/guys), more Visitor-Moder like environment as an ordinary restaurant for conversation Minigame and future test; Setup exterior town environment, and added minigame start-menu for Sweet Pisa, staging for test build for Monday. See second screenshot below.
+
+![Ask About Likings](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/main/Screenshots/20210725_01.jpg)
+
+![New Environment for Sweet Pisa](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/main/Screenshots/20210725_02.jpg)
