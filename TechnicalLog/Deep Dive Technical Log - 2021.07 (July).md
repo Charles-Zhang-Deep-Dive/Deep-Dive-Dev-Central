@@ -55,3 +55,13 @@
 ![Ask About Likings](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/main/Screenshots/20210725_01.jpg)
 
 ![New Environment for Sweet Pisa](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/main/Screenshots/20210725_02.jpg)
+
+# 20210726
+
+1. (Build) Package and test builds for B210725 and B210726.
+2. (Scene, Sweet Pisa) Finish basic test setup for Sweet Pisa scene, including adding pedestrain to the environment.
+3. (Test) Finish Sweet Pisa minigame full setup with appearance choice and character customization; Integrate with earlier test elements and basic dialogue options.
+
+![Minigame Start Menu](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/main/Screenshots/20210726_01.jpg)
+
+Demo: https://youtu.be/Rd8E-iSiLZ0
