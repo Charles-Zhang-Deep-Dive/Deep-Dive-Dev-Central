@@ -67,3 +67,14 @@
 Demo (YouTube): 
 
 [![YouTube Link](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/main/Screenshots/20210726_02.jpg)](https://youtu.be/Rd8E-iSiLZ0)
+
+# 20210727
+
+On Break.
+
+# 20210728
+
+1. (User Interface, Bug Fix) Fix Sentence Builder.
+2. (Semantics) Draft pattern handling for asking about orders - staging for making orders. Pending actual payment mechanism.
+
+![Basic Ask About Order](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/blob/main/Screenshots/20210728_01.png)
